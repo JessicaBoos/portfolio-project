@@ -2,3 +2,13 @@ body {
   background-color: aliceblue;
   font-family: monospace;
 }
+
+a {
+  color: dimgrey;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: dimgray;
+  font-weight: bold;
+}
